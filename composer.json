@@ -16,12 +16,12 @@
         }
     ],
     "require": {
-        "php": "^7.2",
-        "illuminate/support": "^6.0"
+        "php": "^7.2.5",
+        "illuminate/support": "^7.0"
     },
     "require-dev": {
-        "orchestra/testbench": "^4.0",
-        "orchestra/testbench-browser-kit": "^4.0",
+        "orchestra/testbench": "^5.0",
+        "orchestra/testbench-browser-kit": "^5.0",
         "phpunit/phpunit": "^8.4"
     },
     "autoload": {
@@ -39,7 +39,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "4.x-dev"
+            "dev-master": "5.x-dev"
         },
         "laravel": {
             "providers": [
